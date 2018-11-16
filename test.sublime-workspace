@@ -1,0 +1,309 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"base",
+				"base_colo"
+			],
+			[
+				"con",
+				"condition"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "element/index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package→删除程序包"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/AppServ/www/test/element/res/js/element/element.js",
+		"/D/Axure/Axure RP 8/lang/default",
+		"/D/workspace/utown-front/src/App.vue",
+		"/D/workspace/elementUI-test/src/components/zheader.vue",
+		"/D/workspace/utown-front/README.md",
+		"/D/workspace/utown-front/.gitignore",
+		"/C/Users/Administrator/Desktop/test.html",
+		"/D/workspace/elementUI-test/src/util/util.js",
+		"/D/workspace/elementUI-test/src/router/index.js",
+		"/D/workspace/elementUI-test/src/components/zleftmenu.vue",
+		"/D/workspace/elementUI-test/node_modules/_element-ui@2.4.9@element-ui/packages/date-picker/src/basic/month-table.vue",
+		"/D/workspace/elementUI-test/src/store/index.js",
+		"/D/workspace/elementUI-test/build/utils.js",
+		"/D/workspace/elementUI-test/src/components/mainpage.vue",
+		"/D/workspace/elementUI-test/src/components/page2.vue",
+		"/D/workspace/elementUI-test/src/util/base.scss",
+		"/D/workspace/elementUI-test/src/main.js",
+		"/D/workspace/elementUI-test/build/build.js",
+		"/D/workspace/elementUI-test/build/webpack.base.conf.js",
+		"/D/workspace/elementUI-test/node_modules/_element-ui@2.4.9@element-ui/lib/element-ui.common.js",
+		"/D/workspace/elementUI-test/.gitignore",
+		"/D/workspace/elementUI-test/src/store/page2.js",
+		"/D/workspace/elementUI-test/src/components/page1.vue",
+		"/D/workspace/elementUI-test/src/App.vue",
+		"/D/workspace/elementUI-test/config/index.js",
+		"/D/workspace/elementUI-test/src/components/bus.js",
+		"/D/workspace/elementUI-test/src/components/test",
+		"/C/Users/Administrator/Desktop/x.reg",
+		"/C/Users/Administrator/Desktop/新建文本文档.txt",
+		"/C/Users/Administrator/Desktop/dsa.txt",
+		"/C/Users/Administrator/.ssh/id_rsa.pub",
+		"/D/eclipse/configuration/config.ini",
+		"/D/eclipse/eclipse.ini",
+		"/F/下载/chrome下载/initpki/x.bat",
+		"/F/下载/chrome下载/initpki/initpki.dll",
+		"/C/Program Files (x86)/Sublime Text3/Data/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/zss.sublime-snippet",
+		"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.vue",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getComputedStyle",
+			"bought",
+			"offsetTop",
+			"img",
+			"arrayFindIndex",
+			"J_ps3",
+			"__dirname",
+			"handleSelect",
+			"is-active",
+			".emit",
+			"emit",
+			"curUrlPage",
+			"activeIndex",
+			"main_getcurUrlPage",
+			"this.$store",
+			"main_getcurUrlPage",
+			"this.$rout",
+			"this.$router",
+			"activeIndex",
+			"zbefunload",
+			"jumpUrl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "D:\\AppServ\\www\\test"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "element/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"element-ui.js",
+				"node_modules\\_element-ui@2.4.9@element-ui\\lib\\element-ui.common.js"
+			],
+			[
+				"mainpage",
+				"src\\components\\mainpage.vue"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

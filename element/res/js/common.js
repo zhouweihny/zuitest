@@ -476,7 +476,7 @@ Util.getlSToken = function(){
     return null;
 }
 
-;(function (doc, win) {
+/*;(function (doc, win) {
   var docEl = doc.documentElement,
     resizeEvt = "orientationchange" in window ? "orientationchange" : "resize",
     recalc = function(){
@@ -491,7 +491,7 @@ Util.getlSToken = function(){
   if(!doc.addEventListener) return;
   win.addEventListener(resizeEvt, recalc, false);
   doc.addEventListener("DOMContentLoaded", recalc, false);
-})(document, window);
+})(document, window);*/
 
 $(function(){
 
